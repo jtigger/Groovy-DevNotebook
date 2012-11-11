@@ -1,3 +1,6 @@
+.metadata
+bin
+/Servers
 *.iws
 *Db.properties
 *Db.script
